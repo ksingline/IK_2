@@ -22,6 +22,7 @@ root.render(
             </NavItem>
             <NavItem icon={<BoltIcon/>}/>
             <NavItem icon={<CogIcon/>}>
+                {/* comment */}
 
                 {/* drop down goes here */}
                 
